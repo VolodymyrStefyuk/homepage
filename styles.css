@@ -74,11 +74,12 @@ body {
   }
 
   .contact-info__header {
-      color: var(--primary-text-color);
-      margin-bottom: 15px;
-      text-decoration-color: var(--text-decoration-color);
-      text-decoration-line: underline;
-  }
+    color: var(--primary-text-color);
+    margin-bottom: 15px;
+    text-decoration-color: var(--text-decoration-color);
+    text-decoration-line: underline;
+}
+
 
   .contact-info__sub-header {
       color: var(--secondary-text-color);
@@ -167,6 +168,7 @@ body {
     color: var(--secondary-text-color);
     text-align: justify;
 }
+
 .experiences {
     flex: 1 1 60%;
     margin-right: 50px;
